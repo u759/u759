@@ -11,7 +11,7 @@ I study Computer Engineering at UBC (class of 2028). I work on embedded firmware
 #### Embedded
 
 - [Flight controller](https://github.com/u759/flight-controller-case-study): FreeRTOS firmware for a tilt-rotor tricopter. GPS position hold, 400 Hz rate loop, DMA logging, and the C to C++ port. (Write-up only; the code belongs to the team.)
-- [Smart home]: ESP32 power monitor and garage door controller, running on Home Assistant on my TrueNAS box.
+- Smart home: ESP32 power monitor and garage door controller, running on Home Assistant on my TrueNAS box.
 - [simos-mcp](https://github.com/u759/simos-mcp): MCP server that lets an LLM read and diff VW Simos 18.1 ECU maps.
 
 #### Software
